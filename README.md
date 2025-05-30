@@ -86,28 +86,28 @@ ag---
 
 ---
 
-## 💡Tips
+### 💡Tips
 - 「I wish to...」形式で始めると意図が明確になりやすい。
 - フォントが複雑な場合は手書きで対応しても問題ありません。
 - Spare方式のシジル（自由造形）と組み合わせることで、より個人的なスタイルに発展させられます。
 
 ---
 
-## 🪬 参考
+### 🪬 参考
 - Agrippa, *Three Books of Occult Philosophy*, Book III.
 - Rune Soup: [Sigils 101](https://runesoup.com/member-courses/)
 - Gordon White, *The Chaos Protocols*
 
 ---
 
-# 📎 関連リンク
+### 📎 関連リンク
 - Rune Soup: https://runesoup.com/member-courses/
 - Agrippa, *Three Books of Occult Philosophy* (Book III)
 - Gordon White, *The Chaos Protocols*
 
 ---
 
-# 🧪 ライセンスと今後の展開
+### 🧪 ライセンスと今後の展開
 このプロジェクトはMITライセンス下で公開予定です。将来的にはGUI補助ツール（ブラウザ描画など）との統合も検討しています。
 
 ---
