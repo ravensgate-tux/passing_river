@@ -7,6 +7,7 @@
 </div>
 
 <br>
+
 > **出典**: Gordon White, *Sigils 101*, Rune Soup Member Course  
 > This image is used under fair use for non-commercial educational purposes. All rights reserved to the original author.
 
@@ -17,7 +18,7 @@
 - シジル生成の具体例
 - Spare式との統合応用／Rune Soupとの接続アイデア
 
-###🔮 目的
+### 🔮 目的
 
 このプロジェクトは、現代の魔術実践において古典的な文字体系を創造的かつ柔軟に活用し、オリジナルのシジル構築力を高めることを目指します。
 
