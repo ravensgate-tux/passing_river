@@ -6,8 +6,12 @@
  <img src="agrippa_script.jpg" width="500">
 </div>
 
-<br>
-
+> ⚠️ **注意事項**  
+>本プロトコルは、Gordon White氏のRune Soupメンバー限定コース「Sigils 101」内のレッスン受講中に得られた情報をもとに、個人の学習・整理目的で再構成したものです。内容の正確性・適合性は保証されません。実践はすべて自己責任でお願いします。
+> 
+> ⚠️ **Disclaimer**  
+>This protocol is a personal reconstruction based on lessons from Gordon White’s Rune Soup member course *Sigils 101*. It is shared for educational and reference purposes only. Accuracy is not guaranteed. Use at your own risk.
+>
 > **出典**: Gordon White, *Sigils 101*, Rune Soup Member Course  
 > This image is used under fair use for non-commercial educational purposes. All rights reserved to the original author.
 
