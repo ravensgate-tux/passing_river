@@ -2,17 +2,20 @@
 
 このプロトコルでは、ゴードン・ホワイト氏によるオンライン講座 *Sigils 101* 内の講義モジュールに登場する文字体系（Agrippa's "Passing the River" Script）を参照しています。
 
-![PTR Script Sample](agrippa_script.jpg)
+<div align="left">
+ <img src="agrippa_script.jpg" width="500">
+</div>
 
+<br>
 > **出典**: Gordon White, *Sigils 101*, Rune Soup Member Course  
 > This image is used under fair use for non-commercial educational purposes. All rights reserved to the original author.
 
 ### 📚 内容一覧
 
-- `protocol_step_by_step.md`：シジル生成の日本語手順解説
-- `agrippa_chart.md`：Transitus Fluviiのアルファベット対応表
-- `example_walkthrough.md`：シジル生成の具体例
-- `integration_notes.md`：Spare式との統合応用／Rune Soupとの接続アイデア
+- シジル生成の手順を日本語で解説
+- Transitus Fluviiのアルファベット対応表
+- シジル生成の具体例
+- Spare式との統合応用／Rune Soupとの接続アイデア
 
 ###🔮 目的
 
@@ -56,7 +59,7 @@ ag---
 下記のチャート（Agrippa's Script）を参照。
 
 <div align="left">
- <img src="agrippa_script.jpg" width="500">
+ <img src="agrippa_script.jpg" width="800">
 </div>
 <br>
 
