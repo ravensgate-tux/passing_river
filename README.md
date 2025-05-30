@@ -5,6 +5,7 @@
 <div align="left">
  <img src="agrippa_script.jpg" width="500">
 </div>
+<br>
 
 > ⚠️ **注意事項**  
 >本プロトコルは、Gordon White氏のRune Soupメンバー限定コース「Sigils 101」内のレッスン受講中に得られた情報をもとに、個人の学習・整理目的で再構成したものです。内容の正確性・適合性は保証されません。実践はすべて自己責任でお願いします。
