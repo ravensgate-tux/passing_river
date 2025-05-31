@@ -70,6 +70,28 @@ MRCENABTOHSWI
 画像出典: Gordon White, Sigils 101 course (Rune Soup Member Course Module).
 引用目的で掲載。全著作権は著者に帰属します。This image is used under educational/fair use principles for reference purposes only. All rights belong to the original creator.
 
+### 4.1 🔤 英語アルファベットと Transitus Fluvii の変換ルール
+
+Transitus Fluvii はヘブライ文字に基づいた魔術的スクリプトであり、英語アルファベットとは一対一の対応が存在しません。したがって、以下のように **音価や構造的な近似による柔軟な変換** を行います。
+
+### 4.2 ✅ 推奨変換ルール
+
+| 英字 | 対応文字 | 備考 |
+|------|-----------|------|
+| C    | S または K | Samech または Caph に対応 |
+| J    | I         | Iod に統合される音価として処理 |
+| Q    | K         | Caph に統合される |
+| V    | V         | Vau にそのまま対応（u/v 同一視） |
+| W    | V         | 二重 U として V に統合する |
+| X    | K + S     | Caph + Samech として構成 |
+| Y    | I         | Iod に吸収されるケースが多い |
+
+### 4.3 補足
+
+- **Transitus Fluvii** は右から左に書かれるスクリプトです。
+- 曖昧な文字は「魔術的裁量」によって削除または調整して構いません。
+- **目的は整合性よりも意図と効果**です。
+
 ---
 
 ### 5. 組み合わせてピクトリアルなシジルにする
