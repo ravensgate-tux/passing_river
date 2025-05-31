@@ -58,8 +58,6 @@ IWSHTOBANECRM
 
 MRCENABTOHSWI
 
-ag---
-
 ### 4. Transitus Fluvii文字に変換
 アルファベットをTransitus Fluviiの文字に置き換えます。
 下記のチャート（Agrippa's Script）を参照。
