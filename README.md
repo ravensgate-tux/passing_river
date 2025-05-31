@@ -126,6 +126,14 @@ Transitus Fluvii はヘブライ文字に基づいた魔術的スクリプトで
 - Gordon White, *The Chaos Protocols*
 
 ---
+## 🐌 こちらもご覧ください
+
+このページは、作成済み、制作途中、制作予定のものに簡単にアクセスできるメインメニューです。
+大量の情報が見やすく表示されています。
+
+[📚 Le Sorcier Inconnuの書架──翻訳と注釈の目録](https://github.com/ravensgate-tux/sorcier_catalogue/blob/main/README.md)
+
+---
 
 ### 🧪 ライセンスと今後の展開
 このプロジェクトはMITライセンス下で公開予定です。将来的にはGUI補助ツール（ブラウザ描画など）との統合も検討しています。
