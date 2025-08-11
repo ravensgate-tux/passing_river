@@ -3,7 +3,7 @@
 このプロトコルでは、ゴードン・ホワイト氏によるオンライン講座 *Sigils 101* 内の講義モジュールに登場する文字体系（Agrippa's "Passing the River" Script）を参照しています。
 
 <div align="left">
- <img src="Transitus Fluvii_1.png" width="500">
+ <img src="Transitus_Fluvii_upscaled.png" width="500">
 </div>
 <br>
 
@@ -60,7 +60,7 @@ MRCENABTOHSWI
 下記のチャート（Agrippa's Script）を参照。
 
 <div align="left">
- <img src="Transitus Fluvii_1.png" width="800">
+ <img src="Transitus_Fluvii_upscaled.png" width="800">
 </div>
 <br>
 
