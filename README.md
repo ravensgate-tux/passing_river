@@ -1,6 +1,6 @@
 # 🍏 Transitus Fluvii（川を渡る者）を使用した、シジル生成
 
-このプロトコルでは、ゴードン・ホワイト氏によるオンライン講座 *Sigils 101* 内の講義モジュールに登場する文字体系（Agrippa's "Passing the River" Script）を参照しています。
+このプロトコルでは、ゴードン・ホワイト氏によるオンライン講座 *Sigils 101* 内の講義モジュールに登場する文字体系（Agrippa's "Passing the River" Script）に登場したシジル生成法を紹介しています。
 
 <div align="left">
  <img src="Transitus_Fluvii_upscaled.png" width="500">
