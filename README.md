@@ -65,7 +65,7 @@ MRCENABTOHSWI
 <br>
 
 画像出典: Gordon White, Sigils 101 course (Rune Soup Member Course Module).
-引用目的で掲載。全著作権は著者に帰属します。This image is used under educational/fair use principles for reference purposes only. All rights belong to the original creator.
+引用目的で掲載。全著作権は著者に帰属します。<br>This image is used under educational/fair use principles for reference purposes only. All rights belong to the original creator.
 
 ### 4.1 🔤 英語アルファベットと Transitus Fluvii の変換ルール
 
