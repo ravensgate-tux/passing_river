@@ -7,7 +7,7 @@
 </div>
 <br>
 
-> **出典**: Gordon White, *Sigils 101*, Rune Soup Member Course  
+> **画像出典**: Gordon White, *Sigils 101*, Rune Soup Member Course  
 > This image is used under fair use for non-commercial educational purposes. All rights reserved to the original author.
 >Transitus Fluvii（川を渡る者） は、ルネサンス期の魔術師ヘンリクス・コルネリウス・アグリッパが『オカルト哲学三書』で紹介した、ヘブライ文字を幾何学的に変形した秘儀的アルファベットで、右から左へ書かれます。名称は「川を渡ること」を意味し、旧約聖書におけるヨルダン川渡河など霊的境界の通過を象徴するとされています。歴史的には魔術文書や護符の暗号化に用いられ、現代でも儀式魔術やシジル作成において、意図を秘匿しつつ象徴的力を付与する手段として活用されています。
 > 
