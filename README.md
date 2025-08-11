@@ -44,8 +44,8 @@ I wish to obtain the Necronomicon
 ### 2. 重複する文字を削除する
 同じアルファベットが複数回出てきた場合は、1つだけ残して他は削除します。
 
-I WISH TO OBTAIN THE NECRONOMICON
-↓
+I WISH TO OBTAIN THE NECRONOMICON<br>
+⏬<br>
 IWSHTOBANECRM
 
 ---
