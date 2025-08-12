@@ -78,7 +78,7 @@ Transitus Fluvii はヘブライ文字に基づいた魔術的スクリプトで
 | C    | samech / caph  | Represents 'S' (Samech) or 'K' (Caph) sounds |
 | J    | iod            | Merges into Iod phoneme |
 | O    | vau / ain      | O as vowel often absorbed into Vau; sometimes Ayin |
-| Q    | xaph           | Merges into Caph |
+| Q    | caph           | Merges into Caph |
 | V    | vau            | Directly corresponds to Vau (u/v treated the same) |
 | W    | vau            | Double U; merged into Vau |
 | X    | caph + samech  | Constructed from Caph + Samech |
