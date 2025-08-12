@@ -71,18 +71,19 @@ MRCENABTOHSWI
 
 Transitus Fluvii はヘブライ文字に基づいた魔術的スクリプトであり、英語アルファベットとは一対一の対応が存在しません。したがって、以下のように **音価や構造的な近似による柔軟な変換** を行います。
 
-## 4.2 ✅ 推奨変換ルール（ヘブライ語読み版）
+### 4.2 ✅ 推奨変換ルール（ヘブライ語読み版）
 
-| English Letter | Hebrew Name(s) | Notes |
-|------|----------------|-------|
-| C    | samech / caph  | Represents 'S' (Samech) or 'K' (Caph) sounds |
-| J    | iod            | Merges into Iod phoneme |
-| O    | vau / ain      | O as vowel often absorbed into Vau; sometimes Ayin |
-| Q    | caph           | Merges into Caph |
-| V    | vau            | Directly corresponds to Vau (u/v treated the same) |
-| W    | vau            | Double U; merged into Vau |
-| X    | caph + samech  | Constructed from Caph + Samech |
-| Y    | iod            | Often absorbed into Iod |
+| 英字 | ヘブライ語名 | 備考 |
+|------|--------------|------|
+| C    | samech / caph | 「S」（samech）または「K」（caph）の音に対応 |
+| J    | iod           | iod の音価に統合される |
+| O    | vau / ain     | 母音の O は多くの場合 vau に吸収、文脈によっては ain を使用 |
+| Q    | caph          | caph に統合される |
+| V    | vau           | vau にそのまま対応（u/v を同一視） |
+| W    | vau           | 二重 U として vau に統合される |
+| X    | caph + samech | caph と samech の組み合わせで構成 |
+| Y    | iod           | 多くの場合 iod に吸収される |
+
 
 ### 4.3 補足
 
