@@ -75,14 +75,14 @@ Transitus Fluvii はヘブライ文字に基づいた魔術的スクリプトで
 
 | English Letter | Hebrew Name(s) | Notes |
 |------|----------------|-------|
-| C    | Samech / Caph  | Represents 'S' (Samech) or 'K' (Caph) sounds |
-| J    | Iod            | Merges into Iod phoneme |
-| O    | Vau / Ayin     | O as vowel often absorbed into Vau; sometimes Ayin |
-| Q    | Caph           | Merges into Caph |
-| V    | Vau            | Directly corresponds to Vau (u/v treated the same) |
-| W    | Vau            | Double U; merged into Vau |
-| X    | Caph + Samech  | Constructed from Caph + Samech |
-| Y    | Iod            | Often absorbed into Iod |
+| C    | samech / caph  | Represents 'S' (Samech) or 'K' (Caph) sounds |
+| J    | iod            | Merges into Iod phoneme |
+| O    | vau / ain      | O as vowel often absorbed into Vau; sometimes Ayin |
+| Q    | xaph           | Merges into Caph |
+| V    | vau            | Directly corresponds to Vau (u/v treated the same) |
+| W    | vau            | Double U; merged into Vau |
+| X    | caph + samech  | Constructed from Caph + Samech |
+| Y    | iod            | Often absorbed into Iod |
 
 ### 4.3 補足
 
