@@ -71,18 +71,18 @@ MRCENABTOHSWI
 
 Transitus Fluvii はヘブライ文字に基づいた魔術的スクリプトであり、英語アルファベットとは一対一の対応が存在しません。したがって、以下のように **音価や構造的な近似による柔軟な変換** を行います。
 
-### 4.2 ✅ 推奨変換ルール
+## 4.2 ✅ 推奨変換ルール（ヘブライ語読み版）
 
-| 英字 | 対応文字 | 備考 |
-|------|-----------|------|
-| C    | S または K | Samech または Caph に対応 |
-| J    | I         | Iod に統合される音価として処理 |
-| O    | V または Ayin | 母音の O は多くの場合 Vau に吸収、文脈によっては Ayin を使用 |
-| Q    | K         | Caph に統合される |
-| V    | V         | Vau にそのまま対応（u/v 同一視） |
-| W    | V         | 二重 U として V に統合する |
-| X    | K + S     | Caph + Samech として構成 |
-| Y    | I         | Iod に吸収されるケースが多い |
+| English Letter | Hebrew Name(s) | Notes |
+|------|----------------|-------|
+| C    | Samech / Caph  | Represents 'S' (Samech) or 'K' (Caph) sounds |
+| J    | Iod            | Merges into Iod phoneme |
+| O    | Vau / Ayin     | O as vowel often absorbed into Vau; sometimes Ayin |
+| Q    | Caph           | Merges into Caph |
+| V    | Vau            | Directly corresponds to Vau (u/v treated the same) |
+| W    | Vau            | Double U; merged into Vau |
+| X    | Caph + Samech  | Constructed from Caph + Samech |
+| Y    | Iod            | Often absorbed into Iod |
 
 ### 4.3 補足
 
