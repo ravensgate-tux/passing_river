@@ -107,7 +107,9 @@ Transitus Fluvii はヘブライ文字に基づいた魔術的スクリプトで
 ---
 
 ### 🪬 参考
+
 - Agrippa, *Three Books of Occult Philosophy*, Book III.
+- [トランジタス・フルウィイ（Transitus Fluvii）](https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B8%E3%82%BF%E3%82%B9%E3%83%BB%E3%83%95%E3%83%AB%E3%82%A6%E3%82%A3%E3%82%A4)
 
 ---
 
