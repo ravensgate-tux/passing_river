@@ -114,7 +114,8 @@ Transitus Fluvii はヘブライ文字に基づいた魔術的スクリプトで
 ---
 
 ### 📎 関連リンク
-- Agrippa, *Three Books of Occult Philosophy* (Book III)
+
+こちらもご覧ください➡️[ディスコーディアン魔術アーカイブ](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/README.md)
 
 ---
 
