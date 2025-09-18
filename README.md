@@ -1,14 +1,12 @@
 # 🍏 Transitus Fluvii（川を渡る者）を使用した、シジル生成法
 
-このプロトコルでは、ゴードン・ホワイト氏によるオンライン講座 *Sigils 101* 内の講義モジュールに登場する文字体系（Agrippa's "Passing the River" Script）に登場したシジル生成法を紹介しています。<br>
+このプロトコルでは、文字体系（Agrippa's "Passing the River" Script）を使ったシジル生成法を紹介しています。<br>
 
 <div align="left">
  <img src="Transitus_Fluvii_upscaled.png" width="500">
 </div>
 <br>
 
-> **画像出典**: Gordon White, *Sigils 101*, Rune Soup Course  
-> This image is used under fair use for non-commercial educational purposes. All rights reserved to the original author.
 > 
 >**Transitus Fluvii（川を渡る者）** は、ルネサンス期の魔術師ヘンリクス・コルネリウス・アグリッパが『オカルト哲学三書』で紹介した、ヘブライ文字を幾何学的に変形した秘儀的アルファベットで、右から左へ書かれます。名称は「川を渡ること」を意味し、旧約聖書におけるヨルダン川渡河など霊的境界の通過を象徴するとされています。歴史的には魔術文書や護符の暗号化に用いられ、現代でも儀式魔術やシジル作成において、意図を秘匿しつつ象徴的力を付与する手段として活用されています。
 > 
@@ -18,7 +16,6 @@
 - シジル生成の手順を日本語で解説
 - Transitus Fluviiのアルファベット対応表
 - シジル生成の具体例
-- Spare式との統合応用／Rune Soupとの接続アイデア
 
 ### 🔮 目的
 
@@ -63,9 +60,6 @@ MRCENABTOHSWI
  <img src="Transitus_Fluvii_upscaled.png" width="800">
 </div>
 <br>
-
-画像出典: Gordon White, Sigils 101 course (Rune Soup Member Course Module).
-引用目的で掲載。全著作権は著者に帰属します。<br>This image is used under educational/fair use principles for reference purposes only. All rights belong to the original creator.
 
 ### 4.1 🔤 英語アルファベットと Transitus Fluvii の変換ルール
 
@@ -114,15 +108,11 @@ Transitus Fluvii はヘブライ文字に基づいた魔術的スクリプトで
 
 ### 🪬 参考
 - Agrippa, *Three Books of Occult Philosophy*, Book III.
-- Rune Soup: [Sigils 101](https://runesoup.com/member-courses/)
-- Gordon White, *The Chaos Protocols*
 
 ---
 
 ### 📎 関連リンク
-- Rune Soup: https://runesoup.com/member-courses/
 - Agrippa, *Three Books of Occult Philosophy* (Book III)
-- Gordon White, *The Chaos Protocols*
 
 ---
 
