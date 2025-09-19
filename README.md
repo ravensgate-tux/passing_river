@@ -2,6 +2,11 @@
 
 このプロトコルでは、文字体系（Agrippa's "Passing the River" Script）を使ったシジル生成法を紹介しています。<br>
 
+<div align="right">
+<img src="ksc5.png" width="200"><br>
+This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
+</div>
+
 <div align="left">
  <img src="Transitus_Fluvii_upscaled.png" width="500">
 </div>
