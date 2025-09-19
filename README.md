@@ -7,7 +7,7 @@
 This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 </div>
 
-<br><br>
+---
 
 <div align="left">
  <img src="Transitus_Fluvii_upscaled.png" width="500">
