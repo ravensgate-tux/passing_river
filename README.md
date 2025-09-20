@@ -77,6 +77,7 @@ Transitus Fluvii はヘブライ文字に基づいた魔術的スクリプトで
 | 英字 | ヘブライ語名 | 備考 |
 |------|--------------|------|
 | C    | samech / caph | 「S」（samech）または「K」（caph）の音に対応 |
+| F    | phe | 多くの場合 f 音は phe に収束する。文脈によっては vau に吸収される |
 | J    | iod           | iod の音価に統合される |
 | O    | vau / ain     | 母音の O は多くの場合 vau に吸収、文脈によっては ain を使用 |
 | Q    | caph          | caph に統合される |
