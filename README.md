@@ -124,7 +124,7 @@ Transitus Fluvii はヘブライ文字に基づいた魔術的スクリプトで
 ### 2025年10月4日 Backland's Complete Book of Witchcraft によるアップデート
 
 <div align="center">
- <img src="Backland-1.jpg" width="400">
+ <img src="Backland-1.jpg" width="200">
 </div>
 <br>
 
