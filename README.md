@@ -121,6 +121,26 @@ Transitus Fluvii はヘブライ文字に基づいた魔術的スクリプトで
 
 ---
 
+### 2025年10月4日 Backland's Complete Book of Witchcraft によるアップデート
+
+<div align="center">
+ <img src="Backland-1.jpg" width="400">
+</div>
+<br>
+
+同署には英語のアルファベットA-Zに対応した表が掲載されており、下記の用に簡単に参照することができる。フェアユースの範疇で引用する。
+
+<div align="center">
+ <img src="Backland-2.png" width="800">
+</div>
+<br>
+
+画像引用：Backland's Complete Book of Witchcraft
+
+[Backland's Complete Book of Witchcraft](https://www.amazon.co.jp/Bucklands-Complete-Witchcraft-Llewellyns-Practical/dp/0875420508)
+
+---
+
 ### 📎 関連リンク
 
 こちらもご覧ください➡️[ディスコーディアン魔術アーカイブ](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/README.md)
