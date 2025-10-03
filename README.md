@@ -1,6 +1,7 @@
 # 🍏 Transitus Fluvii（川を渡る者）を使用した、シジル生成法（アップデート 2025年10月4日）
 
 このプロトコルでは、文字体系（Agrippa's "Passing the River" Script）を使ったシジル生成法を紹介しています。<br>
+注意：このページの下にある2025年10月4日のアップデート情報を先にご覧ください。<br>
 
 <div align="right">
 <img src="ksc5.png" width="200"><br>
