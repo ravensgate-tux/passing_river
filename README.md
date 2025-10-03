@@ -132,7 +132,7 @@ Transitus Fluvii はヘブライ文字に基づいた魔術的スクリプトで
 同署には英語のアルファベットA-Zに対応した表が掲載されており、下記の用に簡単に参照することができる。フェアユースの範疇で引用する。
 
 <div align="center">
- <img src="Backland-2.png" width="900">
+ <img src="Backland-2.png" width="600">
 </div>
 <br>
 
